@@ -1,0 +1,44 @@
+/* tache.component.css */
+form {
+  margin-bottom: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+th {
+  background-color: #f4f4f4;
+}
+/* Style for completed tasks */
+.completed {
+  background-color: #d4edda; /* Light green background for completed tasks */
+}
+
+/* Additional styles for better appearance */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+th {
+  background-color: #f4f4f4;
+}
+
+
+.table thead th {
+  background-color: #343a40;
+  color: white;
+}
+
